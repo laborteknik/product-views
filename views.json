@@ -1,10 +1,2202 @@
-[
-  {
-    "page_path": "/urun/akulu-tekerlekli-sandalye",
-    "views": 154
-  },
-  {
-    "page_path": "/urun/hasta-yatagi",
-    "views": 88
-  }
+  [
+ {
+   "page_path": "/urun/xylenol-orange-100-ml",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/witra-w504-lazimlikli-banyo-tuvalet-sandalyesi",
+   "views": 4
+ },
+ {
+   "page_path": "/urun/wicromed-ortopedik-sabo-erkek-beyaz-terlik",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/wheatley-trichrome-protozone-stain-set-cb6165-0500-500-test",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/wheatley-trichrome-protozone-stain-set-cb6165-0200-200-test",
+   "views": 19
+ },
+ {
+   "page_path": "/urun/wheatley-trichrome-protozone-stain-set-cb6165-0100-100-test",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/voges-proskauer-reagent-a-barrit-cb6710-0250-250-ml",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/visko-seyahat-boyun-yastigi-ortopedik",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/visco-ortopedik-oturma-simidi-minderi-siyah",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/visco-bacak-pozisyon-yastigi-beyaz-case-cok-renkli",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/velpo-omuz-bandaji-omuz-kol-askisi-bandaji-standart",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/vajinal-spekulum-s-100-adet",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/vacusera-jelli-biyo-kimya-tupu-sari-8-ml-100lu",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/ure-ph-eur-usp-tk-950376-01002-57-13-6-1-kg-plastik-sise",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/ure-gubre-granul-46-5-kg",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/ure-extra-pure-tk-190610-05004-57-13-6-5-kg-plastik-sise",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/unipore-fix-esnek-flaster-sabitleme-bandi-10-m-x-10-cm-100-adet",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/turmed-walker-tekerlekli-katlanir-yurutec-a-1022",
+   "views": 6
+ },
+ {
+   "page_path": "/urun/turmed-tm-h-8035-katlanabilir-siyah-refakatci-tekerlekli-sandalye",
+   "views": 13
+ },
+ {
+   "page_path": "/urun/turmed-tm-h-8016-aluminyum-refakatci-tekerlekli-sandalye",
+   "views": 13
+ },
+ {
+   "page_path": "/urun/turmed-tm-h-8014-bariatrik-xxl-tekerlekli-sandalye",
+   "views": 6
+ },
+ {
+   "page_path": "/urun/turmed-2-motorlu-hasta-karyolasi-dual-motor",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/trombosit-100-ml",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/triton-x-100-biokimya-analytic-grade-for-biochemistry-tk-930156-02500-9036-19-5-2-5-lt-cam-sise",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/triton-x-100-biokimya-analytic-grade-for-biochemistry-tk-930156-01000-9036-19-5-1-lt-cam-sise",
+   "views": 6
+ },
+ {
+   "page_path": "/urun/toluen-extra-pure-tk-170590-01000-108-88-3-1-lt-cam-sise",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/tollens-reaktifi-100-ml",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/titrasyon-solusyonu-toplam-sertlik-icin-250-ml",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/timolftalein-100-ml",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/tibbi-atik-cop-kovasi-pedalli-50-lt",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/tetrahidrofuran-analytic-acs-grade-tk-930154-02501-109-99-9-2-5-lt-plastik-sise",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/tenty-405-extra-pudrasiz-nitril-eldiven-l-beden-siyah-100lu-l",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/tens-pedi-acura-wollex-optimed-relax-elektro-ped-citcitli-12-adet",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/tena-vucut-temizleme-kopugu-susuz-temizleme-onarim-koruma-4-x-400-ml",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/tena-slip-plus-6-damla-belbantli-m-beden-hasta-bezi-30-lu",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/tena-proskin-slip-plus-6-damla-belbantli-hasta-bezi-buyuk-boy-l-4-x-30-lu-120-adet",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/tena-premium-plus-6-damla-belbantli-l-beden-hasta-bezi-30l",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/tena-premium-plus-6-damla-belbantli-l-beden-hasta-bezi-3-paket-90-adet",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/tekkim-tk-400393-00101-giemsa-boyasi",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/tekkim-tk-400380-01001-indikator-buffer-solusyonu",
+   "views": 5
+ },
+ {
+   "page_path": "/urun/tekkim-tk-400200-00001-nikel-solusyonu-9-7lik-amonyak-dimetilglioksim",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/tekkim-tk-400166-01001-iyot-cozeltisi-0-1n-0-05m",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/tekkim-tk-400151-01001-hidroklorik-asit-1",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/tekkim-tk-400114-01001-eter-alkol-1-1",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/tekkim-tk-400109-01001-eosin-yellow-eosin-eosin-y-eosin-g",
+   "views": 4
+ },
+ {
+   "page_path": "/urun/tekkim-tk-400109-00101-eosin-yellow-eosin-eosin-y-eosin-g",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/tekkim-tk-400058-00501-asit-alkol",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/tekkim-tk-400023-00001-siyanur-0-3-0-5-1-2-5",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/tekkim-tk-400003-00001-arsenik-0-1-0-5-1-1-5-3",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/tekerlekli-hasta-yemek-masasi",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/tampon-cozeltisi-ph-10-00-500-ml",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/sulfurik-asit-cozeltisi-d-1-82-g-ml-1-lt",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/sulfurik-asit-cozeltisi-0-05-m-0-1-n-1-lt",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/sulfurik-asit-95-98-extra-pure-tk-170581-01001-7664-93-9-1-lt-plastik-sise",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/sulfuric-acid-0-02n-0-01m-cb3275-1000-1-lt",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/sulfat-test-kiti",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/sulfanilamide-1-w-v-cb3245-0100-100-ml",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/sudan-iii-cb3240-0100-100-ml",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/spatul-paslanmaz-celik-mikro-kasikli-210-mm-1-adet-paket",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/spatul-paslanmaz-celik-makro-kasikli-250-mm-1-adet-paket",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/spatul-paslanmaz-celik-elipsoidal-210-mm-1-adet-paket",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/spatul-paslanmaz-celik-elipsoidal-150-mm-1-adet-paket",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/spatul-paslanmaz-celik-duz-oluklu-150-mm-1-adet-paket",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/spatul-paslanmaz-celik-chattaway-180-mm-1-adet-paket",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/sodyum-sulfur-extra-pure-tk-201782-25006-27610-45-3-25-kg-koli-ici-posetli",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/sodyum-siyanur-extra-pure-tk-201780-01002-143-33-9-1-kg-plastik-sise",
+   "views": 31
+ },
+ {
+   "page_path": "/urun/sodyum-sitrat-3-8-100-ml",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/sodyum-hegza-meta-fosfat-calgon-extra-pure-tk-920056-01002-2538-85-4-1-kg-plastik-sise",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/sodium-citrate-3-8-cb3115-0100-100-ml",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/sise-su-numune-pp-sodiumtiyosulfatsiz-seffaf-steril-r-1000-ml-tekli-ambalaj-22-adet-paket",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/sise-su-numune-pp-sodiumtiyosulfatli-seffaf-steril-r-500-ml-tekli-ambalaj-42-adet-paket",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/sise-su-numune-pet-sodiumtiyosulfatsiz-seffaf-steril-r-1000-ml-tekli-ambalaj-22-adet-paket",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/sise-su-numune-pet-sodiumtiyosulfatli-seffaf-steril-r-1000-ml-tekli-ambalaj-22-adet-paket",
+   "views": 6
+ },
+ {
+   "page_path": "/urun/sise-p-e-toz-maddeler-icin-2500-ml-25-adet-paket",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/sise-p-e-sivi-maddeler-icin-5000-ml-25-adet-paket",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/sise-p-e-seffaf-genis-boyun-vidali-kapakli-500-ml-50-adet-paket",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/sise-p-e-seffaf-genis-boyun-vidali-kapakli-50-ml-50-adet-paket",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/sise-p-e-seffaf-genis-boyun-vidali-kapakli-2000-ml-50-adet-paket",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/sise-p-e-amber-genis-boyun-vidali-kapakli-2000-ml-50-adet-paket",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/sise-genis-boyunlu-notr-cam-seffaf-100-ml-gl-40-10-adet-paket",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/sise-damlatma-p-e-seffaf-100-ml-1-adet-paket",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/sise-damlatma-p-e-30-ml-10-adet-paket",
+   "views": 4
+ },
+ {
+   "page_path": "/urun/sise-damlatma-p-e-15-ml-10-adet-paket",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/sise-damlatma-cam-seffaf-100-ml-1-adet-paket",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/sise-damlatma-cam-amber-100-ml-1-adet-paket",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/sise-borosilikat-cam-seffaf-vidali-kapakli-1000-ml-10-adet-paket",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/sise-borosilikat-cam-amber-vidali-kapakli-100-ml-1-adet-paket",
+   "views": 4
+ },
+ {
+   "page_path": "/urun/silikon-corap-taban-gizli-topuk-yukseltici-boy-uzatma-kadin-erkek-standart",
+   "views": 11
+ },
+ {
+   "page_path": "/urun/sigma-aldrich-t4049-100ml-25-trypsin-edta-solution",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/sigma-aldrich-p8920-100ml-poly-l-lysine",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/sigma-aldrich-p4333-20ml-penicillin-streptomycin-solution-stabil",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/sigma-aldrich-l3771-100g-sodium-dodecyl-sulfate",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/sigma-aldrich-g7513-20ml-l-glutamine-200-mm-sterile-filtered-cell",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/sigma-aldrich-e5134-500g-edta-molecular-biology-reagent-disodium",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/sigma-aldrich-d158550-2-5l-n-n-dimethylformamide-99",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/sigma-aldrich-a2153-10g-albumin-from-bovine-serum",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/sigma-aldrich-34859-2-5l-hexane-for-hplc-gt-97-0-gc",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/sigma-aldrich-34854-2-5l-chloroform-for-hplc-gt-99-8-amylene",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/sigma-aldrich-27227-2-5l-r-ethyl-acetate-extra-pure-dac-n-f",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/sigma-aldrich-24216-2-5l-r-chloroform-contains-ethanol-as-stablize",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/sigma-aldrich-18304-1l-hydrogen-peroxide-solution",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/sigma-aldrich-10771-100ml-histopaque-1077",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/s-h-sogutucu-duz-tek-ucu-silifli-300-mm",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/s-h-sogutucu-duz-silifsiz-500-mm",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/s-h-sogutucu-duz-iki-ucu-silifli-300-mm",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/s-h-sogutucu-bullu-silifsiz-400-mm",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/s-h-plastik-pipet-ucu-beyaz-250lik-ps-5000ul",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/s-h-plastik-pastor-pipeti-500luk-ps-3-ml",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/s-h-plastik-beher-kisa-form-100ml",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/s-h-pipet-otomatik-basligi-10-ml",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/s-h-piknometre-glass-1000ml",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/s-h-otoklav-sisesi-pyreks-boro-3-3-250-ml",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/s-h-mezur-uzun-form-cam-250-ml",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/s-h-mezur-uzun-form-cam-100-ml",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/s-h-mezur-uzun-form-altigen-taban-2000-ml",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/s-h-mezur-un-icin-sedim-tupu-silifli-100-ml",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/s-h-manyetik-balik-6-20mm",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/s-h-lam-50-lik-kutu-duz-kesim-26-76mm",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/s-h-lam-50-lik-kutu-1-3-iki-tarafi-rodajli-26-76mm",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/s-h-kuvet-quartz-2-li-pkt-fiyatidir-50mm-17-5ml",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/s-h-filitre-kagidi-mavi-bant-125mm",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/s-h-filitre-kagidi-beyaz-bant-125mm",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/s-h-erlen-nuche-1000-ml",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/s-h-cam-malzeme-kurutma-standi-erlen-beher-balon-mezur-vs-icin-30-25",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/s-h-cam-huni-kisa-sapli-60-mm",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/s-h-cam-huni-kisa-sapli-40-mm",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/s-h-cam-huni-kisa-sapli-150-mm",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/s-h-cam-beher-dereceli-isiya-dayanikli-kisa-form-6-x-100-ml",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/s-h-cam-beher-dereceli-isiya-dayanikli-kisa-form-400-ml",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/s-h-bunzen-beki-tup-gaz-dogalgaz",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/s-h-beher-kisa-form-dereceli-50-ml",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/s-h-beher-kisa-form-dereceli-250-ml",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/s-h-beher-kisa-form-dereceli-100-ml",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/s-h-ayirma-hunisi-armudi-tip-cam-musluklu-50-ml",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/rulo-sargi-bezi-10-cm-x-100-m",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/rosin-100-ml",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/ringer-solusyonu-1-lt",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/riedel-de-haen-34550-edta-disodium-salt-solution-volumetric-reag-ph-eur-0-1-m-edta-na2-for-complexometry-1-l",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/riedel-de-haen-32221-ethanol-puriss-p-a-absolute-99-8-2-5-lt",
+   "views": 4
+ },
+ {
+   "page_path": "/urun/riedel-de-haen-24229-methanol-puriss-meets-analytical-specification-2-5-lt",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/respirox-jn-163ew-turkce-konusan-bilekten-tansiyon-aleti",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/qac-test-strips-quaternary-ammonium-comp-cb4680-0-1000-ppm",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/prosafe-emici-kulot-medium-30-adet",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/prosafe-emici-kulot-medium-120adet",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/poylin-p967-55-cm-aluminyum-tekerlekli-sandalye",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/poylin-p958y-spastik-tekerlekli-sandalye",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/poylin-p807-refakatci-orta-tekerlekli-sandalye",
+   "views": 4
+ },
+ {
+   "page_path": "/urun/poylin-p806-refakatci-tekerlekli-sandalye",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/poylin-p777p-ayaklikli-rollator-pedalli",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/poylin-p777-rollator-white",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/poylin-p777-rollator-titanium-gri",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/poylin-p689-banyo-tuvalet-sandalyesi",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/poylin-p615-banyo-tuvalet-sandalyesi",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/poylin-p581-ekonomik-rollator-silver-champagne-grey",
+   "views": 8
+ },
+ {
+   "page_path": "/urun/poylin-p561-katlanir-komot",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/poylin-p542-quattripot",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/poylin-p531-koltuk-degnegi-medium",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/poylin-p531-koltuk-degnegi-large",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/poylin-p206-hafif-akulu-sandalye",
+   "views": 4
+ },
+ {
+   "page_path": "/urun/poylin-p153-aktif-tekerlekli-sandalye-titanyum",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/poylin-p151-aktif-tekerlekli-sandalye-aluminyum",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/poylin-p150-aktif-tekerlekli-sandalye-aluminyum",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/poylin-p146-aktif-tekerlekli-sandalye-36-cm-41-cm-46-cm-51-cm",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/poylin-p120-50-cm-tekerlekli-sandalye",
+   "views": 20
+ },
+ {
+   "page_path": "/urun/poylin-p120-45-cm-tekerlekli-sandalye-40-cm",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/poylin-p120-45-cm-tekerlekli-sandalye",
+   "views": 7
+ },
+ {
+   "page_path": "/urun/poylin-p114-buyuk-beden-55-cm-tekerlekli-sandalye",
+   "views": 8
+ },
+ {
+   "page_path": "/urun/poylin-p112-tekerlekli-sandalye-45-cm-50-cm",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/poylin-p112-tekerlekli-sandalye-45-cm",
+   "views": 7
+ },
+ {
+   "page_path": "/urun/poylin-p110-tekerlekli-sandalye-yerli-uretim",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/poylin-p110-ozellikli-standart-manuel-tekerlekli-sandalye-50-cm",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/poylin-p110-ozellikli-standart-manuel-tekerlekli-sandalye",
+   "views": 8
+ },
+ {
+   "page_path": "/urun/poylin-p110-45-cm-ozellikli-standart-manuel-tekerlekli-sandalye",
+   "views": 4
+ },
+ {
+   "page_path": "/urun/poylin-p110-40-cm-ozellikli-standart-manuel-tekerlekli-sandalye-45-cm",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/poylin-p110-40-cm-ozellikli-standart-manuel-tekerlekli-sandalye-40-cm",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/poylin-p100-ekonomik-tekerlekli-sandalye-ekoseli",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/poylin-990-buggy-cocuk-arabasi",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/potasyum-permanganat-cozeltisi-0-1-n-0-02-m-1-lt",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/potasyum-nitrat-10-1-lt",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/potasyum-klorur-extra-pure-tk-150440-01002-7447-40-7-1-kg-plastik-sise",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/potasyum-klorur-cozeltisi-3-m-1-lt",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/potasyum-hidroksit-cozeltisi-10-1-lt",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/potasyum-florur-10-1-lt",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/potasyum-ferrosiyanur-k4-coz-10-1-lt",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/potasyum-bikarbonat-hidrojen-extra-pure-tk-930146-01002-298-14-6-1-kg-plastik-sise",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/polietilen-glikol-6000-peg-6000-extra-pure-tk-201806-25006-25322-68-3-25-kg-koli-ici-posetli",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/piset-p-e-dar-boyun-500-ml-1-adet-paket",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/piset-p-e-dar-boyun-1000-ml-1-adet-paket",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/piset-orta-boyunlu-baskili-su-500-ml-1-adet-paket",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/piset-orta-boyunlu-baskili-etanol-500-ml-1-adet-paket",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/piset-orta-boyunlu-baskili-deiyonize-su-500-ml-1-adet-paket",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/pipet-ucu-seffaf-1250-ul-paket-500-adet-paket",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/pipet-ucu-filtreli-seffaf-1000-ul-kutu-low-retention-steril-96-adet-paket",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/phenol-solution-equilibrated-with-10-mm-tris-hcl-cb6635-0100-100-ml",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/ph-tampon-kapsul-ph-4-00-0-05-tk-930083-00001-1x10-kapsul",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/ph-havuz-icin-test-kiti",
+   "views": 6
+ },
+ {
+   "page_path": "/urun/pesser-halka-silikon-no-80-mm",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/pesser-halka-silikon-no-65-mm",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/perklorik-asit-70-extra-pure-tk-950360-02500-7601-90-3-2-5-lt-cam-sise",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/peracetic-acid-test-strips-high-range-cb4200-0-500-ppm",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/pastor-pipetleri-cam-225-mm-250-adet-paket",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/p771-elektrikli-hasta-tasima-transfer-lifti",
+   "views": 6
+ },
+ {
+   "page_path": "/urun/otomatik-pipet-isolab-tek-kanal-20-200-ul-1-adet-paket",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/otomatik-pipet-isolab-tek-kanal-1-5-ml-1-adet-paket",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/otomatik-pipet-isolab-tek-kanal-0-5-10-ul-1-adet-paket",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/otomatik-buret-sisesi-seffaf-2000-ml-1-adet-paket",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/orumcek-kemer-sedye-kemeri",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/orp-standard-solution-475-2-0-mv-at-25-degc-cb3421-1000-1-lt",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/orp-standard-solution-475-2-0-mv-at-25-degc-cb3421-0250-250-ml",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/omron-tansiyon-aleti-manseti-hem-fl31",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/omron-m3-comfort-hem-7155-e-ust-koldan-olcer-tansiyon-aleti/",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/omron-m3-comfort-hem-7155-e-ust-koldan-olcer-tansiyon-aleti",
+   "views": 10
+ },
+ {
+   "page_path": "/urun/omron-m2-hem-7143-e-koldan-olcer-tansiyon-aleti",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/omron-m2-basic-hem-7121j-e-ust-koldan-olcer-dijital-tansiyon-aleti",
+   "views": 4
+ },
+ {
+   "page_path": "/urun/omron-c28p-hizli-tedavi-dayanikli-nebulizator",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/oil-quality-test-strips-cb4610-0-0-5-1-2-3-4-mg-g-koh",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/octacare-yun-dizlik-xl",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/octacare-salisilik-asitli-nasir-bandi-6li-paket/",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/octacare-14110-seffaf-pu-tibbi-su-gecirmez-flaster-10-m-x-10-cm",
+   "views": 14
+ },
+ {
+   "page_path": "/urun/o-tolidine-solution-cb3335-1000-1-lt",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/o-tolidine-solution-cb3335-0500-500-ml",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/o-tolidine-solution-cb3335-0100-100-ml",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/numune-kabi-200-ml-pk-250",
+   "views": 6
+ },
+ {
+   "page_path": "/urun/ns797l-kifidis-banyo-icin-tabure",
+   "views": 4
+ },
+ {
+   "page_path": "/urun/non-steril-gazli-bez-gaz-kompres-spanc-7-5-x-7-5cm-400-adet",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/nitrit-test-kiti",
+   "views": 7
+ },
+ {
+   "page_path": "/urun/nikel-test-kiti-tekstil-metal-aksesuar-icin-cb5320-70-100-var-yok",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/nikel-ii-sulfat-hegzahidrat-extra-pure-tk-200221-01002-10101-97-0-1-kg-plastik-sise",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/mywam-zefir-engelli-puseti",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/mywam-alfa-stroller",
+   "views": 22
+ },
+ {
+   "page_path": "/urun/mywam-alfa-engelli-puseti-full-aksesuarli",
+   "views": 4
+ },
+ {
+   "page_path": "/urun/mouse-engelli-puseti-full-aksesuarli",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/mono-propilen-glikol-farma-kalite-extra-pure-pharma-quality-tk-800600-01001-57-55-6-1-lt-plastik-sise",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/milwaukee-ph600-cep-tipi-ph-metre-0-0-14-0-ph-olcer",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/milwaukee-mw801-pro-ph-ec-tds-olcer-combo-ph-metre-cihazi",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/milwaukee-mw150-ph-metre-masaustu-ph-orp-sicaklik-olcer",
+   "views": 5
+ },
+ {
+   "page_path": "/urun/milwaukee-mw102-pro-portatif-ph-metre-ph-olcer-1",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/milwaukee-mw102-pro-portatif-ph-metre-ph-olcer",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/milwaukee-mw-802-portatif-ph-iletkenlik-tds-cihazi",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/milwaukee-ma991b-1-cam-ph-probu",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/milwaukee-ec-59-kalem-tipi-iletkenlik-tds-sicaklik-olcum-cihazi",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/milwaukee-cd611-cep-tipi-ec-metre-0-20000-us-cm-iletkenlik",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/milwaukee-cd601-cep-tipi-ec-metre-0-1990-us-ec-olcer",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/mezur-uzun-form-p-p-tabanli-b-kalite-grup-sertifikali-beyaz-skala-100-ml-2-adet-paket",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/mewa-engelli-puseti-full-aksesuarli",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/mewa-engelli-puseti",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/metilen-mavisi-cozeltisi-1-0-suda-100-ml",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/metilen-klorit-diklorometan-99-5-extra-pure-tk-120330-90190-75-09-2-190-litrelik-varil",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/metilen-klorit-diklorometan-99-5-extra-pure-tk-120330-02500-75-09-2-2-5-lt-cam-sise",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/metil-oranj-indikator-cozeltisi-1-lt",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/metil-izo-butil-keton-extra-pure-tk-060150-02501-108-10-1-2-5-lt-plastik-sise",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/meniskus-icin-ozel-terapi-kumas-dizlik-her-bedene-uygun",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/megaterm-m-50-kuru-hava-sterilizator-dijital-isi-gostergeli-1",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/megaterm-m-50-kuru-hava-sterilizator-dijital-isi-gostergeli",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/megaterm-m-220-kuru-hava-sterlilizator",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/megaterm-m-160-kuru-hava-sterilizator-dijital-isi-gostergeli",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/megaterm-m-160-kuru-hava-sterilizator",
+   "views": 4
+ },
+ {
+   "page_path": "/urun/megaterm-e-420-p-kuru-hava-sterilizaor-p-i-d-kontrollu",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/megaterm-e-420-p-kuru-hava-etuv-cam-kapili-p-i-d-kontrollu",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/megaterm-e-220-p-kuru-hava-sterilizaor-p-i-d-kontrollu",
+   "views": 4
+ },
+ {
+   "page_path": "/urun/megaterm-e-220-p-kuru-hava-etuv-cam-kapili-p-i-d-kontrollu",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/megaterm-e-1200-p-kuru-hava-sterilizaor-p-i-d-kontrollu",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/megaterm-e-1200-p-kuru-hava-etuv-cam-kapili-p-i-d-kontrollu",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/medwelt-tm-h-8026-tekerlekli-rolator-yurutec-hasta-yuruteci",
+   "views": 7
+ },
+ {
+   "page_path": "/urun/medwelt-ort-a-1025-aluminyum-yukseklik-ayarlanabilir-baston-ayarlanabilir",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/medibez-tibbi-bez-flaster-5-cm-x-5-m-5-kutu",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/may-grunwald-stain-solution-cb2660-0500-500-ml",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/may-grunwald-giemsa-stain-set-cb6105-0500-500-test",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/may-grunwald-giemsa-stain-set-cb6105-0100-100-test",
+   "views": 9
+ },
+ {
+   "page_path": "/urun/masson-trichrome-stain-set-goldner-cb6100-0500-500-test",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/masson-trichrome-stain-set-goldner-cb6100-0100-100-test",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/masson-trichrome-stain-set-cb6095-0200-200-test",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/masson-trichrome-stain-set-cb6095-0100-100-test",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/malleol-destekli-ayak-bilekligi-bedensiz",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/lyon-unv002-patella-destekli-dizlik-standart",
+   "views": 36
+ },
+ {
+   "page_path": "/urun/lyon-sg028-ortezi-foot-guard-istirahat-ayak-bilegi-ateli-m-38-41-cm",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/lyon-sg028-foot-guard-istirahat-ayak-bilegi-ateli-ortezi-l-42-45-cm",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/lyon-ortopedik-oturma-simidi-visco-sunger",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/lyon-nelson-boyunluk-yuksek-kaliteli-plastozot-boyun-duzlesmesi-ve-boyun-fitigi",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/lumbosakral-celik-balenli-korse",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/lugol-solution-cb2625-0500-500-ml",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/life-net-medikal-dijital-tansiyon-aleti-kol-mansonu-17-22-cm",
+   "views": 5
+ },
+ {
+   "page_path": "/urun/life-net-defne-star-masaj-aleti",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/laboratuar-standi-at-nali-buyuk-boy-1-adet-paket",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/labkim-vazelin-sivi-25",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/labkim-talk-pudra-10-kg",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/labkim-talk-pudra-1-kg",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/labkim-silika-jel-beyaz-5",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/labkim-silika-jel-beyaz-25",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/labkim-silika-jel-beyaz-1",
+   "views": 10
+ },
+ {
+   "page_path": "/urun/labkim-potasyum-sitrat-potassium-citrate-1-kg",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/labkim-nitrik-asit-1",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/labkim-magnezyum-oksit-kalsine-1",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/labkim-magnezyum-hidroksit-1",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/labkim-laktik-asit-80-lik-gida-tipi-25-kg",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/labkim-kursun-oksit-1",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/labkim-hidrojen-peroksit-5",
+   "views": 5
+ },
+ {
+   "page_path": "/urun/labkim-hidrojen-peroksit-25",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/labkim-formik-asit-25",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/labkim-distile-saf-su-0-00-0-02-ppm-30-lt-1",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/labkim-distile-saf-su-0-00-0-02-ppm-30-lt",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/labkim-borik-asit-10",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/labkim-askorbik-asit-kristal-25",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/labkim-aluminyum-sulfat-10",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/labkim-aktif-karbon-granul-5-kg",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/labkim-aktif-karbon-granul-10-kg",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/kursun-test-kiti-cb5270-70-100-var-yok",
+   "views": 4
+ },
+ {
+   "page_path": "/urun/kimyasal-ilac-amber-cam-sise-reaktif-sisesi-2500-ml",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/karmin-for-microscopy-tk-930100-00102-1390-65-4-100-gr-plastik-sise",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/kalsiyum-test-kiti",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/kalsiyum-nitrat-tetrahidrat-extra-pure-tk-920081-05004-13477-34-4-5-kg-plastik-sise",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/jansiyen-violet-solusyonu-1-lt",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/izopropil-alkol-2-propanol-extra-pure-tk-090250-05001-67-63-0-5-lt-plastik-sise",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/isotex-sh-4c-isiticili-dijital-manyetik-karistirici",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/isotex-sh-4-isiticili-analog-manyetik-karistirici",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/isolab-pipet-standi-p-p-dik-1",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/isolab-dar-boyunlu-piset-100-ml-10-adet",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/indol-3-butirik-asit-for-biochemistry-extra-pure-tk-930136-00252-133-32-4-250-gr-plastik-sise",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/indol-3-butirik-asit-for-biochemistry-extra-pure-tk-930136-00102-133-32-4-100-gr-plastik-sise",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/indium-cb9040-0005-99-99-5-gr-7440-74-6",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/immersiyon-yagi-for-microscopy-extra-pure-tk-930090-01001-1-lt-plastik-sise",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/iki-motorlu-hasta-yatagi-full-abs",
+   "views": 11
+ },
+ {
+   "page_path": "/urun/hidroksilamin-hidroklorur-10-1-lt",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/hidroklorik-asit-cozeltisi-0-01-m-0-01-n-1-lt",
+   "views": 6
+ },
+ {
+   "page_path": "/urun/hidrojen-peroksit-35-perhidrol-extra-pure-tk-060408-05001-5-lt-plastik-sise",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/heptan-extra-pure-tk-080211-25003-142-82-5-25-lt-paslanmaz-fici",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/heptan-extra-pure-tk-080211-01000-142-82-5-1-lt-cam-sise",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/hekzan-izomerleri-extra-pure-tk-080210-05003-92112-69-1-5-lt-coex-sise",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/hekzan-izomerleri-extra-pure-tk-080210-02500-92112-69-1-2-5-lt-cam-sise",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/hasta-tasima-siltesi-sedyesi-transfer-brandasi-pvc",
+   "views": 7
+ },
+ {
+   "page_path": "/urun/golfi-xz-droid-a-robooter-akulu-tekerlekli-sandalye",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/golfi-s770-standie-yuruyus-destekleyici-akulu-tek-san",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/golfi-s550-atto-mini-scooter",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/golfi-s540-foldie-katlanir-scooter",
+   "views": 8
+ },
+ {
+   "page_path": "/urun/golfi-s470-karbon-akulu-tekerlekli-sandalye",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/golfi-s350-deiser-midi-sccoter",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/golfi-s260-multi-fonksiyonel-akulu-tekerlekli-sandalye",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/golfi-s230-multi-fonksiyonel-akulu-tekerlekli-sandalye",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/golfi-s150-merdiven-inme-cikma-sandalyesi",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/golfi-pr-999-aluminyum-multi-fonksiyonel-koltukalti-degnegi",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/golfi-pr-882-aluminyum-walker-rollator",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/golfi-pr-104-aluminyum-katlanir-baston-siyah",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/golfi-jt-309-hafif-akulu-tekerlekli-sandalye",
+   "views": 4
+ },
+ {
+   "page_path": "/urun/golfi-jt-200-fonksiyonel-akulu-tekerlekli-sandalye",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/golfi-jt-124-hafif-akulu-tekerlekli-sandalye",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/golfi-jt-099-katlanir-akulu-tekerlekli-sandalye",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/golfi-g750-rigit-aktif-tekerlekli-sandalye",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/golfi-g637-aluminyum-fonksiyonel-tekerlekli-sandalye",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/golfi-g630-aluminyum-multi-fonk-tekerlekli-sandalye",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/golfi-g570-elektrikli-klozetli-transfer-sandalyesi/",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/golfi-g561-aluminyum-klozetli-banyo-sandalyesi",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/golfi-g550-klozetli-transfer-sandalyesi",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/golfi-g502-aluminyum-transfer-sandalyesi",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/golfi-g491-engelli-cocuk-puseti",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/golfi-g458c-pediatrik-cerebral-palsy-tekerlekli-sandalye",
+   "views": 4
+ },
+ {
+   "page_path": "/urun/golfi-g131-fonksiyonel-tekerlekli-sandalye",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/golfi-g103y-ozellikli-manuel-tekerlekli-sandalye",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/golfi-g099-manuel-tekerlekli-sandalye",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/golfi-e60-robooter-akulu-tekerlekli-sandalye",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/golfi-e40s-20-robooter-akulu-tekerlekli-sandalye",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/golfi-e40s-10-robooter-akulu-tekerlekli-sandalye",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/glodis-nonsteril-latex-pudrali-muayene-eldiveni-l-4-adet",
+   "views": 9
+ },
+ {
+   "page_path": "/urun/glodis-nonsteril-latex-pudrali-muayene-eldiveni-l",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/glodis-nonsteril-lateks-pudrasiz-muayene-eldiveni-m-4-adet",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/glodis-nonsteril-lateks-pudrasiz-muayene-eldiveni-l-4-adet",
+   "views": 6
+ },
+ {
+   "page_path": "/urun/glodis-nonsteril-lateks-pudrasiz-muayene-eldiveni-l",
+   "views": 13
+ },
+ {
+   "page_path": "/urun/glodis-nitril-pudrasiz-mavi-muayene-eldiveni-m-4-adet",
+   "views": 4
+ },
+ {
+   "page_path": "/urun/glodis-nitril-pudrasiz-mavi-muayene-eldiveni-l-4-adet",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/glikoz-monohidrat-extra-pure-pharma-quality-tk-090271-02504-14431-43-7-2-5-kg-plastik-sise",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/giz-life-bel-bantli-yetiskin-hasta-bezi-l-4-x-30lu",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/giemsa-boyasi-solusyon-cozeltisi-500-ml",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/giemsa-boyasi-100-ml",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/gallium-cb9020-0005-99-99-5-gr-7440-55-3",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/galena-xt-40-baklava-tipi-havali-yatak-sistemi",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/galena-prezervatifli-sonda-35-mm-50-pcs-large",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/galena-nazogastrik-enteral-beslenme-tupu-sondasi-no-10",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/galena-nazogastrik-enteral-beslenme-tupu-sondasi-14",
+   "views": 8
+ },
+ {
+   "page_path": "/urun/galena-musluklu-idrar-torbasi-2000-ml-20-ad-diger",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/galena-gs-200-abc-sistemli-boru-tipi-havali-yatak",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/galena-cam-uclu-beslenme-enjektoru-50-ml-25-adet",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/fuksin-bazik-c-i-42510-for-microscopy-tk-930099-00502-632-99-5-500-gr-plastik-sise",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/fuksin-bazik-c-i-42510-for-microscopy-tk-930099-00102-632-99-5-100-gr-plastik-sise",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/freshlife-xl-emici-kulot-30-lu-4-paket-120-adet",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/freshlife-xl-ekstra-buyuk-boy-belbantli-hasta-bezi-30-lu-4-paket-120-adet",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/freshlife-xl-ekstra-buyuk-boy-belbantli-hasta-bezi-30-lu",
+   "views": 5
+ },
+ {
+   "page_path": "/urun/freshlife-small-belbantli-hasta-bezi-30-lu-4-paket-120-adet-1",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/freshlife-small-belbantli-hasta-bezi-30-lu-4-paket-120-adet",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/freshlife-small-belbantli-hasta-bezi-30-lu",
+   "views": 6
+ },
+ {
+   "page_path": "/urun/freshlife-large-emici-kulot-30-lu-4-paket-120-adet",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/freshlife-large-belbantli-hasta-bezi-30-lu",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/freely-as608gc-manuel-lazimlikli-tekerlekli-sandalye",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/freely-as140-akulu-tekerlekli-sandalye",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/fosforik-asit-85-extra-pure-food-quality-tk-140360-05001-5-lt-plastik-sise",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/fosfataz-test-strips-sut-icin-cb4740-var-yok",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/formalin-neutral-cb2451-0100-1-lt",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/formaldehit-10-1-lt",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/fluoride-test-kit-cb7100-25-test-0-01-0-5-1-2-5-5-8-ppm",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/fluorescein-cb2440-0100-100-ml",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/fenolftalein-ind-cozeltisi-1-etanol-1-lt",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/fehling-a-1-invert-seker-gida-1-lt",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/feellife-nano-jln-mb004-mini-mesh-nebulizator",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/falkon-tupu-dibi-konik-50-ml-taksimatli-mavi-kapakli-falcon",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/falkon-tupu-dibi-konik-50-ml-taksimatli-kapakli-50li-pk",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/evony-emici-kulot-hasta-bezi-buyuk-boy-l-120-adet",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/etilendiamin-extra-pure-tk-950361-25001-25-lt-plastik-fici",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/etil-metil-keton-metil-etil-keton-acs-grade-tk-911016-02500-78-93-3-2-5-lt-cam-sise",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/eti-maden-100-saf-boraks-25-kg",
+   "views": 4
+ },
+ {
+   "page_path": "/urun/esbach-reagent-cb6570-0100-500-ml",
+   "views": 5
+ },
+ {
+   "page_path": "/urun/erythrosin-b-indicator-cb2405-0100-100-ml",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/ertick-instruments-refraktometre-brix-0-10/",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/eriochrome-black-t-cb9250-0050-14645-50-gr-1787-61-7",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/eosin-y-solution-in-aqueous-0-5-cb6555-1000-1-litre",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/enjektor-10-ml-0-70-32-mm-22-g-1800-adet",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/elektromag-m-3025-p-kuru-hava-sterilizatoru",
+   "views": 4
+ },
+ {
+   "page_path": "/urun/elektro-mag-em-902-ceker-ocak",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/el-bilek-ateli-bandaji-bas-parmak-destekli",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/dort-motorlu-hasta-yatagi-full-abs",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/dna-stain-set-feulgen-cb6040-0100-100-test",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/dipropilen-glikol-extra-pure-tk-950369-05001-5-lt-plastik-sise",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/dipropilen-glikol-extra-pure-tk-950369-02501-2-5-lt-plastik-sise",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/dipropilen-glikol-extra-pure-tk-950369-02500-2-5-lt-cam-sise",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/dipropilen-glikol-extra-pure-tk-950369-01000-1-lt-cam-sise",
+   "views": 4
+ },
+ {
+   "page_path": "/urun/dimetil-sulfoksit-extra-pure-tk-201790-01000-67-68-5-1-lt-cam-sise",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/dijital-tansiyon-aleti-mansonu-kucuk-boy",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/dermosept-batikon-1000-ml-3-adet",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/deri-dosemeli-hasta-tuvaleti-banyo-sandalyesi",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/demir-walker-wolker-yurutec-hareketli-walker",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/demir-test-kiti",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/dedakj-portatif-tasinabilir-oksijen-konsantratoru-7-l",
+   "views": 6
+ },
+ {
+   "page_path": "/urun/cpap-bpap-hortumu-standart",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/conductivity-standard-1413-microsiemens-cm-cb2295-0500-500-ml",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/comfort-plus-vakum-sedye",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/comfort-plus-turuncu-ilk-yardim-cantasi",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/comfort-plus-spirit-x4-brown-karbon-rolator",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/comfort-plus-new-strong-hafif-manuel-tekerlekli-sandalye-aluminyum-50-cm",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/comfort-plus-ky963-ters-wolker",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/comfort-plus-ky930l-lux-asa-baston-isikli",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/comfort-plus-ky918-2-tekerlekli-walker-yurutec",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/comfort-plus-ky9006lg-20-aluminyum-ozellikli-tekerlekli-sandalye",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/comfort-plus-ky9006lg-12-aluminyum-ozellikli-tekerlekli-sandalye",
+   "views": 16
+ },
+ {
+   "page_path": "/urun/comfort-plus-ky881-kolcakli-klozet-yukseltici",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/comfort-plus-ky8711-20-transfer-tekerlekli-sandalye-ozellikli",
+   "views": 7
+ },
+ {
+   "page_path": "/urun/comfort-plus-ky8711-16-transfer-tekerleli-sandalye-ozellikli",
+   "views": 23
+ },
+ {
+   "page_path": "/urun/comfort-plus-ky863laj-a20-fume-aluminyum-transfer-sandalyesi",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/comfort-plus-ky863labj-a12-fume-transfer-aluminyum-tekerlekli-sandalye",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/comfort-plus-ky809-deri-standart-tekerlekli-sandalye",
+   "views": 24
+ },
+ {
+   "page_path": "/urun/comfort-plus-kombinasyon-sedyesi",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/comfort-plus-j030-cok-yonlu-5-baslikli-masaj-aleti",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/comfort-plus-ilk-yardim-sirt-cantasi",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/comfort-plus-gk863laj-20-jet-black-transfer-aluminyum-tekerlekli-sandalye",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/comfort-plus-gk863labj-12-jet-black-transfer-aluminyum-tekerlekli-sandalye",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/comfort-plus-ga305-123-aluminyum-masaj-masasi",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/comfort-plus-escape-lx-siyah-renk-akulu-tekerlekli-sandalye-pg-joystick",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/comfort-plus-dy049146l-2-pediatrik-walker-yurutec",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/comfort-plus-dy01959lb-yemek-masali-puset",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/comfort-plus-dy01958lbcj-38-cp-spastik-tekerlekli-sandalye",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/comfort-plus-dy01409lj-mavi-transfer-tekerlekli-sandalye",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/comfort-plus-dm-9146-ayak-pedalli-rolator",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/comfort-plus-dm-9144-new-oturma-yuksekligi-ayarlanir",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/comfort-plus-dm-912-5-yetiskin-tekerlekli-wolker",
+   "views": 4
+ },
+ {
+   "page_path": "/urun/comfort-plus-dm-74-oturakli-baston-yukseklik-ayarli",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/comfort-plus-dm-337-50cm-aluminyum-ozellikli-transfer-tekerlekli-sandalye",
+   "views": 5
+ },
+ {
+   "page_path": "/urun/comfort-plus-dm-337-45cm-aluminyum-ozellikli-transfer-tekerlekli-sandalye",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/comfort-plus-dm-337-40cm-aluminyum-ozellikli-transfer-tekerlekli-sandalye",
+   "views": 4
+ },
+ {
+   "page_path": "/urun/comfort-plus-dm-327-mini-45cm-transfer-tekerlekli-sandalyesi-lacivert",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/comfort-plus-dm-321-45cm-hafif-aluminyum-tekerlekli-sandalye",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/comfort-plus-dm-321-40cm-hafif-aluminyum-tekerlekli-sandalye",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/comfort-plus-dm-315-38cm-hafif-manuel-tekerlekli-sandalye-yari-aktif",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/comfort-plus-dm-313-service-aluminyum-tekerlekli-sandalye-ozellikli",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/comfort-plus-dm-312-xxl-60cm-obez-tekerlekli-sandalye-180-kg-tasima-kapasiteli",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/comfort-plus-dm-303-50cm-standart-manuel-tekerlekli-sandalye",
+   "views": 5
+ },
+ {
+   "page_path": "/urun/comfort-plus-dm-303-45cm-standart-manuel-tekerlekli-sandalye",
+   "views": 4
+ },
+ {
+   "page_path": "/urun/comfort-plus-dm-170-tuvaletli-tekerlekli-sandalye-motorlu",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/comfort-plus-creative-cr-8012-motorlu-sirt-yatar-motorlu-ayak-kalkar-uzaktan-kumandali-akulu-tekerlekli-sandalye",
+   "views": 6
+ },
+ {
+   "page_path": "/urun/comfort-plus-creative-cr-6012-lityum-pilli-tekerlekli-sandalye-12ah",
+   "views": 7
+ },
+ {
+   "page_path": "/urun/comfort-plus-creative-cr-2023-akulu-tekerlekli-sandalye",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/comfort-plus-creative-cr-2022-cocuk-akulu-tekerlekli-sandalye",
+   "views": 4
+ },
+ {
+   "page_path": "/urun/comfort-plus-creative-cr-1005-akulu-tekerlekli-sandalye",
+   "views": 13
+ },
+ {
+   "page_path": "/urun/comfort-plus-cr-6012-lux-bas-destekli-sirt-yatar-lityum-pilli-20ah",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/civa-ii-sulfat-extra-pure-tk-930141-00102-7783-35-9-100-gr-plastik-sise",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/citotest-pastor-pipet-3-ml-500lu-kutu",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/chlorine-test-paper-cb4047-0-200-ppm",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/canped-tekstil-yuzeyli-belbantli-small-30-lu-hasta-bezi",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/canped-kulotlu-mesane-pedi-ince-emici-kulot-orta-medium-40-adet",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/canped-emici-kulot-hasta-bezi-orta-boy-m-9lu-x-6-adet",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/canped-emici-kulot-hasta-bezi-60-adet-medium-2pk-30",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/canped-emici-kulot-hasta-bezi-120-adet-xlarge-4pk-30",
+   "views": 4
+ },
+ {
+   "page_path": "/urun/canped-emici-kulot-hasta-bezi-120-adet-medium-4pk-30",
+   "views": 4
+ },
+ {
+   "page_path": "/urun/canped-emici-kulot-buyuk-boy-m-beden-30lu-yetiskin-hasta-bezi",
+   "views": 5
+ },
+ {
+   "page_path": "/urun/canped-cocuklar-icin-tekstil-yuzeyli-belbantli-hasta-bezi-xs-4-x-30lu",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/cam-damlalikli-sise-50cc-gumus-kapakli-10-adet",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/buyuk-boy-ilk-yardim-seti-first-aid-kit-4490",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/buret-otomatik-seffaf-ptfe-ara-musluklu-as-kalite-grup-sertifikali-selbah-cizgili-mavi-skala-25-ml-1-adet-paket",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/buffer-solution-ph-6-0-25degc-cb2213-0250-250-ml",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/buffer-solution-ph-4-0-25degc-cb2211-0250-250-ml",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/brand-705201-handy-step-touch-tekrarlamali-pipet-dokunmatik-sarj-adaptoru-ve-sarj-standi-ile-komple",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/brand-705200-handy-step-touch-tekrarlamali-pipet-dokunmatik-sarj-adaptoru-ile-komple",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/brand-702603-pipet-ucu-neutral-1-10-ml-200-adet",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/brand-4720150dispenset-ekonomik-2-5-25-ml",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/brand-4630160-dispensette-manual-organik-5-50-ml",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/brand-4630141-dispensette-manual-organik-vanali-1-10-ml",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/brand-4600241-dispensette-fix-type-vanali-10-ml",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/brand-4600160-dispensette-manual-5-50-ml",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/bradfords-reagent-cb2165-1000-1-lt",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/bikarbonat-test-kiti-cb5610-50-70-50-ppm-1-damla",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/bidon-borosilikat-cam-seffaf-musluklu-20-litre-1-adet-paket",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/bidon-borosilikat-cam-seffaf-musluklu-10-litre-1-adet-paket",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/bidon-asiprator-musluklu-p-p-20-lt-1-adet-paket",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/bidon-asiprator-musluklu-p-p-10-lt-1-adet-paket",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/beslenme-enjektoru-60-cc-400-adet",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/benzoil-klorur-extra-pure-for-synthesis-tk-930118-02501-98-88-4-2-5-lt-plastik-sise",
+   "views": 6
+ },
+ {
+   "page_path": "/urun/benzoil-klorur-extra-pure-for-synthesis-tk-930118-01001-98-88-4-1-lt-plastik-sise",
+   "views": 5
+ },
+ {
+   "page_path": "/urun/beher-p-p-kisa-form-mavi-skala-100-ml-1-adet-paket",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/beher-kulplu-paslanmaz-celik-1000-ml-1-adet-paket",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/beher-kulplu-p-p-kisa-form-mavi-skala-1000-ml-1-adet-paket",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/beher-cam-kisa-form-10000-ml-1-adet-paket",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/baticon-batikon-baticonol-antiseptic-cozelti-1000-ml-dermosept15",
+   "views": 4
+ },
+ {
+   "page_path": "/urun/balon-joje-standard-koyu-amber-a-kalite-beyaz-skala-5-ml-ns-10-19-2-adet-paket",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/balon-cam-dibi-duz-2000-ml-6-adet-paket",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/aseton-alkol-100-ml",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/asetokarmin-solusyonu-100-ml",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/amonyak-cozeltisi-10-1-lt",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/alkollu-termometre-20degc-110degc",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/alkol-eter-ve-solusyonu",
+   "views": 16
+ },
+ {
+   "page_path": "/urun/aktif-karbon-granul-extra-pure-tk-201794-02504-7440-44-0-2-5-kg-plastik-sise",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/aktif-karbon-granul-extra-pure-tk-201794-01002-7440-44-0-1-kg-plastik-sise",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/acura-ac-833-k-16-pedli-tens-ems-masaj-uclu-fizik-cihazi",
+   "views": 7
+ },
+ {
+   "page_path": "/urun/acura-ac-777-5-motorlu-titresimli-zayiflama-ve-masaj-kemeri-gobek-ve-basen-eritici",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/acura-ac-738k-paletli-degistirebilir-baslikli-masaj-aleti",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/acura-ac-532-3-baslikli-profesyonel-yunus-masaj-aleti-kirmizi",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/acar-cam-katrani-35-kg",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/822187-1000-tween-80-for-synthesis",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/818591-0500-thiourea-for-synthesis",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/800-d-analog-20ml-x-6-li-santrifuj-cihazi",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/80-2a-dijital-20-ml-x-12-li-santrifuj-cihazi",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/5-ml-0-80-16-mm-21-g-asi-enjektoru-2400-adet",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/3m-steril-strip-dikis-bandi-r1547-12-x-100-mm",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/199002-0001-buffer-solution-ph-7-30x30ml",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/114660-0001-iron-test-in-freshwater-seawater-aquamerck-iron-test",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/109439-1000-buffer-solution-ph-7",
+   "views": 7
+ },
+ {
+   "page_path": "/urun/108603-1000-triton-x-100-gr",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/106585-5000-di-sodium-hydrogen-phosp-emprove",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/106404-1000-sodium-chloride-gr-for-analysis-emsure",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/104912-0100-potassium-bromate-gr-for-analysis-emsure",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/102426-0250-chloramine-t-trihydrate-gr-for-analysis",
+   "views": 2
+ },
+ {
+   "page_path": "/urun/101187-1000-ammonium-nitrate-emplura",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/100921-2500-diethylether-for-analysis-emsure",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/100844-2500-ethanolamine-suitable-for-use-as-excipient-emprove-r",
+   "views": 1
+ },
+ {
+   "page_path": "/urun/100773-1000-tannic-acid-powder-emprove",
+   "views": 3
+ },
+ {
+   "page_path": "/urun/1-naftilamin-100-ml",
+   "views": 1
+ }
 ]
